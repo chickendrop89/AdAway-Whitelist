@@ -1,6 +1,7 @@
-# Adguard DNS
-dns.adguard.com
-dns-family.adguard.com
+# Crash analytics
+crashlytics.com
+crashlyticsreports-pa.googleapis.com
+sentry.com
 
 # Instagram
 cdninstagram.com
@@ -43,11 +44,6 @@ raw.githubusercontent.com
 cdn.cloudflare.net
 cdnjs.cloudflare.com
 
-# Optimizely
-cdn.optimizely.com
-cdn2.optimizely.com
-cdn3.optimizely.com
-
 # Akamai Technologies
 akamaihd.net
 akamaitechnologies.com
@@ -55,24 +51,6 @@ akamaized.net
 widget-cdn.rpxnow.com
 akamai.net
 akadns.net
-
-# Buffer CDN 
-bufferapp.com
-
-# Giphy.com
-giphy.com
-
-# Gravatar Image
-gravatar.com
-
-# Jsdelivr.net Open Source CDN
-jsdelivr.net
-
-# Malwarebytes Anti-Malware
-keystone.mwbsys.com
-
-# Aliexpress.com
-login.aliexpress.com
 
 # Microsoft
 xbox.ipv6.microsoft.com
@@ -162,24 +140,9 @@ np-edge-cdn.itunes-apple.com.akadns.net
 iadsdk.apple.com.akadns.net
 play.itunes.apple.com.edgesuite.net
 
-# Disney+ Streaming
-cdn.registerdisney.go.com
-dssott.com
-disneyplus.com
-disney-plus.net
-cws.conviva.com
-disneyplus.bn5x.net
-disney-portal.my.onetrust.com
-bamgrid.com
-disneyplus.com.ssl.sc.omtrdc.net
-cws-sjc2.conviva.com
-cws-iad1.conviva.com
-vod-l3c-eu-north-2.media.dssott.com.c.footprint.net
-disney.demdex.net
-
 # Firefox Browser
 detectportal.firefox.com
 
-# Tidal
-sp-ad-fa.audio.tidal.com
-vb-ad-fa.video.tidal.com
+# Site-breaking domains
+www.googleadservices.com
+static.ads-twitter.com
