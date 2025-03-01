@@ -1,5 +1,6 @@
 # Crash analytics
 crashlytics.com
+firebase-settings.crashlytics.com
 crashlyticsreports-pa.googleapis.com
 sentry.com
 
@@ -36,14 +37,6 @@ i.ytimg.com
 i1.ytimg.com
 s.ytimg.com
 
-# Github
-github.com
-raw.githubusercontent.com
-
-# Cloudflare
-cdn.cloudflare.net
-cdnjs.cloudflare.com
-
 # Akamai Technologies
 akamaihd.net
 akamaitechnologies.com
@@ -58,14 +51,12 @@ xboxexperiencesprod.experimentation.xboxlive.com
 xflight.xboxlive.com
 xkms.xboxlive.com
 xsts.auth.xboxlive.com
-ui.skype.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 win10.ipv6.microsoft.com
 sharepoint.com
-pricelist.skype.com
 office.com
 office.net
 office365.com
@@ -79,7 +70,6 @@ msftncsi.com
 i.s-microsoft.com
 help.ui.xboxlive.com
 c.s-microsoft.com
-apps.skype.com
 attestation.xboxlive.com
 cert.mgt.xboxlive.com
 clientconfig.passport.net
@@ -120,11 +110,9 @@ msmetrics.ws.sonos.com
 
 # Amazon Prime Video and Amazon CDN
 eu.api.amazonvideo.com
-device-metrics-us.amazon.com
 fls-eu.amazon.com
 fls-na.amazon.com
 cloudfront.net
-device-metrics-us-2.amazon.com
 images-amazon.com
 amazonaws.com
 
